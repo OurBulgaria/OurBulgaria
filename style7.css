@@ -1,0 +1,56 @@
+.img1{
+    margin-right:auto;
+    margin-left:auto;
+    display:block;
+    border-radius:100px;
+}
+.img2{
+    margin-right:auto;
+    margin-left:auto;
+    display:block;
+}
+.a1{
+    color:black;
+    font-size: 35px;
+    background-color: yellow;
+    padding:30px 20px;
+    border-radius: 15px;
+    text-decoration: none;
+    margin:0px 850px;
+}
+.a2{
+    color:white;
+    background-color: black;
+    text-transform: uppercase;
+     text-decoration:none;
+    font-size:35px;
+    padding:10px 30px;
+}
+.container{
+    animation-name: slideInLeft;
+    animation-duration:0.7s;
+}
+b{
+    font-size:65px;
+}
+iframe{
+    margin-right:auto;
+    margin-left:auto;
+    display:block;
+}
+.p1{
+    text-align:center;
+    font-size:25px;
+}
+.p2{
+    text-align:center;
+    font-size:25px; 
+}
+@keyframes slideInLeft{
+    from{
+        transform:translateX(-1920px);
+    }
+    to{
+        transform: translateX(0);
+    }
+}
