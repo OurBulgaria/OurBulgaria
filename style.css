@@ -1,4 +1,3 @@
-
 *{
 padding:0;
 margin:0;
@@ -39,7 +38,7 @@ h5{
     font-size: 25px;
 }
 .t1{
-    font-size:35px;
+    font-size:25px;
     color:white;
 }
 .a7{
@@ -112,9 +111,12 @@ padding:3px 10px;
 margin:0 260px;
 }
 .a9{
-    font-size:35px;
-    margin:0 600px;
-    text-shadow:orange 2px 2px;
+    font-size:25px;
+    margin:0 650px;
+    text-shadow:rgb(255, 217, 0) 1px 1px;
+    color:white;
+    background-color:black;
+    padding:10px 50px;
     text-transform:uppercase;
 }
 .a10{
@@ -217,10 +219,14 @@ padding:15px 60px;
 }
 .tbl1{
     background-color: black;
-    width:1902px;
+    margin-left:auto;
+    margin-right:auto;
 }
 .tbl2{
     background-color:black;
+    text-align:center;
+    margin-left:auto;
+    margin-right:auto;
 }
 @keyframes slideInLeft{
     from{
