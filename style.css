@@ -113,8 +113,8 @@ margin:0 260px;
 .a9{
     font-size:25px;
     margin:0 650px;
-    text-shadow:rgb(255, 217, 0) 1px 1px;
-    color:white;
+    text-shadow:white 1px 1px 1px;
+    color:rgb(255, 208, 0);
     background-color:black;
     padding:10px 50px;
     text-transform:uppercase;
