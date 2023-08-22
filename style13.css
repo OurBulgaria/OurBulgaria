@@ -20,6 +20,21 @@
     margin:0 550px;
     text-shadow:black 5px 5px 5px;
 }
+.a2{
+    font-size:35px;
+    text-decoration:none;
+    color:black;
+    background-color: orange;
+    padding:25px 25px;
+    border-radius: 20px;
+    margin:0 850px;
+    transition:0.7s;
+}
+.a2:hover{
+    background-color:black;
+    color:orange;
+    transition:0.7s;
+}
 .p1{
     font-size:35px;
     color:black;
