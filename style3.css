@@ -1,4 +1,3 @@
-
 .img1{
     margin-right:auto;
     margin-left:auto;
@@ -26,6 +25,21 @@ border-radius:100px;
     text-decoration:none;
 font-size:35px;
 padding:10px 30px;
+}
+.a3{
+    font-size:35px;
+    text-decoration:none;
+    color:black;
+    background-color: yellow;
+    padding:25px 25px;
+    border-radius: 20px;
+    margin:0 850px;
+    transition:0.7s;
+}
+.a3:hover{
+    background-color:black;
+    color:yellow;
+    transition:0.7s;
 }
 .container{
     animation-name: slideInLeft;
