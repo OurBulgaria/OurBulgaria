@@ -1,3 +1,6 @@
+body{
+    font-family: 'Rubik Dirt', cursive;
+}
 .img1{
     margin-right:auto;
     margin-left:auto;
@@ -10,6 +13,7 @@
     display:block;
 }
 .hh1{
+    color:black;
     text-align:center;
     text-shadow: orange 2px 2px;
     font-size:55px;
@@ -25,7 +29,7 @@ font-size:25px;
     padding:30px 20px;
     border-radius: 15px;
     text-decoration: none;
-    margin:0px 810px;
+    margin:0px 780px;
 }
 .a2{
     color:white;
@@ -42,7 +46,7 @@ font-size:25px;
     background-color: orange;
     padding:25px 25px;
     border-radius: 20px;
-    margin:0 850px;
+    margin:0 830px;
     transition:0.7s;
 }
 .a3:hover{
