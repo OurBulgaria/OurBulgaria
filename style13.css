@@ -1,3 +1,6 @@
+body{
+    font-family: 'Rubik Dirt', cursive;
+}
 .img1{
     margin-right: auto;
     margin-left: auto;
@@ -17,7 +20,7 @@
     color:orange;
     text-decoration: none;
     font-size:85px;
-    margin:0 550px;
+    margin:0 450px;
     text-shadow:black 5px 5px 5px;
 }
 .a2{
@@ -27,7 +30,7 @@
     background-color: orange;
     padding:25px 25px;
     border-radius: 20px;
-    margin:0 850px;
+    margin:0 830px;
     transition:0.7s;
 }
 .a2:hover{
@@ -36,9 +39,11 @@
     transition:0.7s;
 }
 .p1{
-    font-size:35px;
+    font-size:30px;
     color:black;
-    text-align: center;
+    text-align: justify;
+    font-family: 'Lora', serif;
+    padding:0 400px;
 }   
 h1{
 text-align: center;
