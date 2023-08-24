@@ -1,6 +1,7 @@
 body{
     background-image: url('https://webnews.bg/uploads/images/70/0370/270370/640x.jpg?_=1549990009');
     background-size:100% 100%;
+    font-family: 'Rubik Dirt', cursive;
 }
 .img1{
     margin-right:auto;
@@ -20,7 +21,7 @@ body{
     padding:30px 20px;
     border-radius: 15px;
     text-decoration: none;
-    margin:0px 550px;
+    margin:0px 440px;
 }
 .a2{
     color:white;
@@ -34,7 +35,7 @@ body{
     color:green;
     text-decoration: none;
     font-size:40px;
-    margin:0 770px;
+    margin:0 720px;
 text-shadow: black 2px 2px 2px;
 transition: 0.7s;
 }
@@ -66,7 +67,7 @@ transition: 0.7s;
     background-color: green;
     padding:25px 25px;
     border-radius: 20px;
-    margin:0 850px;
+    margin:0 820px;
     transition:0.7s;
 }
 .a5:hover{
@@ -91,11 +92,15 @@ iframe{
     text-align:center;
     font-size:35px;
     color:white;
+    padding:0 400px;
+    font-family: 'Lora', serif;
 }
 .p2{
     text-align:center;
     font-size:35px; 
     color:white;
+    padding:0 400px;
+    font-family: 'Lora', serif;
 }
 @keyframes slideInLeft{
     from{
