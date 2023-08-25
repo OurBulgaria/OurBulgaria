@@ -1,5 +1,5 @@
 body{
-    font-family: 'Rubik Dirt', cursive;
+    font-family: 'Lobster', cursive;
 }
 .img1{
     margin-right: auto;
@@ -20,7 +20,7 @@ body{
     color:orange;
     text-decoration: none;
     font-size:85px;
-    margin:0 450px;
+    margin:0 550px;
     text-shadow:black 5px 5px 5px;
 }
 .a2{
@@ -30,7 +30,7 @@ body{
     background-color: orange;
     padding:25px 25px;
     border-radius: 20px;
-    margin:0 830px;
+    margin:0 850px;
     transition:0.7s;
 }
 .a2:hover{
