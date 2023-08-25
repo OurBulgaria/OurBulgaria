@@ -1,7 +1,7 @@
 body{
     background-image: url('https://webnews.bg/uploads/images/70/0370/270370/640x.jpg?_=1549990009');
     background-size:100% 100%;
-    font-family: 'Rubik Dirt', cursive;
+    font-family: 'Lobster', cursive;
 }
 .img1{
     margin-right:auto;
@@ -21,7 +21,7 @@ body{
     padding:30px 20px;
     border-radius: 15px;
     text-decoration: none;
-    margin:0px 440px;
+    margin:0px 560px;
 }
 .a2{
     color:white;
@@ -35,7 +35,7 @@ body{
     color:green;
     text-decoration: none;
     font-size:40px;
-    margin:0 720px;
+    margin:0 770px;
 text-shadow: black 2px 2px 2px;
 transition: 0.7s;
 }
