@@ -1,3 +1,6 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
 *{
 padding:0;
 margin:0;
@@ -50,7 +53,7 @@ h5{
 }
 .a1{
     color:white;
-    font-size:50px;
+    font-size:40px;
     transition:0.7s;
 
 }
@@ -91,7 +94,7 @@ transition: 0.7s;
     background-color:white;
     padding:30px 110px;  
     font-size:45px;
-    margin:0 255px;
+    margin:0 180px;
 }
 .a5:hover{
     color:orange;
@@ -108,7 +111,7 @@ font-size:30px;
 color:white;
 background-color: black;
 padding:3px 10px;
-margin:0 260px;
+margin:0 240px;
 }
 .a9{
     font-size:25px;
@@ -131,12 +134,12 @@ margin:0 260px;
     text-shadow:black 3px 3px;
 }
 .a11{
-    font-size:30px;
+    font-size:26px;
     color:black;
     background-color:rgba(244, 255, 91, 0.788);
     padding:15px 20px;
     border-radius:20px;
-    margin:0 20px;
+    margin:0 30px;
     transition:0.7s;
 }
 .a11:hover{
