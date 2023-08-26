@@ -38,7 +38,8 @@ b{
 }
 h5{
     color:white;
-    font-size: 25px;
+    font-size: 35px;
+    font-family: 'Marck Script', cursive;
 }
 .t1{
     font-size:25px;
@@ -153,8 +154,9 @@ margin:0 240px;
     padding:40px 30px;
 }
 .p2{
-    font-size:20px;
+    font-size:25px;
     margin:0 250px;
+    font-family: 'Marck Script', cursive;
 }
 .seven{
 line-height:170px;
