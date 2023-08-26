@@ -35,7 +35,7 @@ body{
     color:green;
     text-decoration: none;
     font-size:40px;
-    margin:0 770px;
+    margin:0 760px;
 text-shadow: black 2px 2px 2px;
 transition: 0.7s;
 }
@@ -90,17 +90,17 @@ iframe{
 }
 .p1{
     text-align:center;
-    font-size:35px;
+    font-size:3cqh;
     color:white;
     padding:0 400px;
-    font-family: 'Lora', serif;
+    font-family: 'Marck Script', cursive;
 }
 .p2{
     text-align:center;
     font-size:35px; 
     color:white;
     padding:0 400px;
-    font-family: 'Lora', serif;
+    font-family: 'Marck Script', cursive;
 }
 @keyframes slideInLeft{
     from{
