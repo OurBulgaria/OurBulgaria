@@ -1,3 +1,6 @@
+body{
+    font-family: 'Lobster', cursive;
+}
 .img1{
     margin-right:auto;
     margin-left:auto;
@@ -89,8 +92,12 @@ iframe{
     padding:100px 300px;
 }
 .p1{
-    text-align:center;
-    font-size:25px;
+    color: #222;
+    word-wrap:break-word;
+    text-align:justify;
+    font-size:30px;
+    padding:0 400px;
+    font-family: 'Marck Script', cursive;
 }
 .p2{
     text-align:center;
