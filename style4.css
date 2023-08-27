@@ -140,47 +140,47 @@ body{
 .p1{
     border-radius: 20px;
     animation-name: slideInLeft;
-    animation-duration:3s;
+    animation-duration:0.90s;
 }
 .p2{
     border-radius: 20px;
     animation-name: slideInLeft;
-    animation-duration:2s;
+    animation-duration:0.80s;
 }
 .p3{
     border-radius: 20px;
     animation-name: slideInLeft;
-    animation-duration:1s;
+    animation-duration:0.70s;
 }
 .p4{
     border-radius: 20px;
     animation-name: slideInLeft;
-    animation-duration:3s;
+    animation-duration:0.90s;
 }
 .p5{
     border-radius: 20px;
     animation-name: slideInLeft;
-    animation-duration:2s;   
+    animation-duration:0.80s;   
 }
 .p6{
     border-radius: 20px;
     animation-name: slideInLeft;
-    animation-duration:1s; 
+    animation-duration:0.70s; 
 }
 .p7{
     border-radius: 20px;
     animation-name: slideInLeft;
-    animation-duration:3s; 
+    animation-duration:0.90s; 
 }
 .p8{
     border-radius: 20px;
     animation-name: slideInLeft;
-    animation-duration:2s; 
+    animation-duration:0.80s; 
 }
 .p9{
     border-radius: 20px;
     animation-name: slideInLeft;
-    animation-duration:1s; 
+    animation-duration:0.70s; 
 }
 @keyframes slideInLeft{
     from{
