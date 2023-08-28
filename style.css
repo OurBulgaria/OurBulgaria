@@ -16,6 +16,7 @@ nav ul{
     margin-right:60px;
 }
 nav ul li{
+    color:#222;
     display:inline-block;
     line-height:100px;
     font-size:25px;
