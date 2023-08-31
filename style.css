@@ -148,6 +148,12 @@ margin:0 240px;
     color:rgba(244, 255, 91, 0.788);
     background-color: black;
 }
+.a12{
+    color:#222;
+}
+.a12:hover{
+    color:orange;
+}
 .p1{
     animation-name:slideInLeft;
     animation-duration:3s;
@@ -231,6 +237,12 @@ padding:15px 60px;
     text-align:center;
     margin-left:auto;
     margin-right:auto;
+}
+.tbl4{
+    width:1600px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
 }
 @keyframes slideInLeft{
     from{
