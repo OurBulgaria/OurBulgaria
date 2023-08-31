@@ -12,6 +12,11 @@ body{
     margin-left:auto;
     display:block;
 }
+h1{
+    font-size:55px;
+    text-shadow:rgb(0, 132, 255) 3px 3px;
+    text-align:center;
+}
 .a1{
     color:black;
     font-size: 35px;
@@ -76,6 +81,10 @@ iframe{
     text-align:center;
     margin-right:auto;
     margin-left:auto;
+}
+iframe{
+    background-color:rgb(54, 54, 54);
+    padding:50px 50px;  
 }
 @keyframes slideInLeft{
     from{
