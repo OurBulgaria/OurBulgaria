@@ -9,7 +9,7 @@ body{
     color:black;
     text-decoration: none;
     font-size:25px;
-    margin: 0 80px;
+    margin: 0 110px;
     padding: 3px 20px;
     border-radius: 20px;
     transition: 0.7s;
@@ -22,7 +22,7 @@ body{
     color:black;
     text-decoration: none;
     font-size:25px;
-    margin: 0 80px;
+    margin: 0 170px;
     padding: 3px 20px;
     border-radius: 20px;
     transition: 0.7s;
@@ -35,7 +35,7 @@ body{
     color:black;
     text-decoration: none;
     font-size:25px;
-    margin: 0 80px;
+    margin: 0 110px;
     padding: 3px 20px;
     border-radius: 20px;
     transition: 0.7s;
@@ -48,7 +48,7 @@ body{
     color:black;
     text-decoration: none;
     font-size:25px;
-    margin: 0 80px;
+    margin: 0 180px;
     padding: 3px 20px;
     border-radius: 20px;
     transition: 0.7s;
@@ -61,7 +61,7 @@ body{
     color:black;
     text-decoration: none;
     font-size:25px;
-    margin: 0 80px;
+    margin: 0 120px;
     padding: 3px 20px;
     border-radius: 20px;
     transition: 0.7s;
@@ -74,7 +74,7 @@ body{
     color:black;
     text-decoration: none;
     font-size:25px;
-    margin: 0 80px;
+    margin: 0 160px;
     padding: 3px 20px;
     border-radius: 20px;
     transition: 0.7s;
@@ -87,7 +87,7 @@ body{
     color:black;
     text-decoration: none;
     font-size:25px;
-    margin: 0 80px;
+    margin: 0 135px;
     padding: 3px 20px;
     border-radius: 20px;
     transition: 0.7s;
@@ -100,7 +100,7 @@ body{
     color:black;
     text-decoration: none;
     font-size:25px;
-    margin: 0 80px;
+    margin: 0 110px;
     padding: 3px 20px;
     border-radius: 20px;
     transition: 0.7s;
@@ -113,7 +113,7 @@ body{
     color:black;
     text-decoration: none;
     font-size:25px;
-    margin: 0 80px;
+    margin: 0 135px;
     padding: 3px 20px;
     border-radius: 20px;
     transition: 0.7s;
@@ -136,6 +136,71 @@ body{
     color:yellow;
     text-shadow:white 1px 1px;
     transition:0.7s;
+}
+.a11{
+    color:black;
+    text-decoration: none;
+    font-size:25px;
+    margin: 0 170px;
+    padding: 3px 20px;
+    border-radius: 20px;
+    transition: 0.7s;
+}
+.a11:hover{
+    background-color: yellow;
+    transition: 0.7s;
+}
+.a12{
+    color:black;
+    text-decoration: none;
+    font-size:25px;
+    margin: 0 185px;
+    padding: 3px 20px;
+    border-radius: 20px;
+    transition: 0.7s;
+}
+.a12:hover{
+    background-color: yellow;
+    transition: 0.7s;
+}
+.a13{
+    color:black;
+    text-decoration: none;
+    font-size:25px;
+    margin: 0 150px;
+    padding: 3px 20px;
+    border-radius: 20px;
+    transition: 0.7s;
+}
+.a13:hover{
+    background-color: yellow;
+    transition: 0.7s;
+}
+.a14{
+    color:black;
+    text-decoration: none;
+    font-size:25px;
+    margin: 0 170px;
+    padding: 3px 20px;
+    border-radius: 20px;
+    transition: 0.7s;
+}
+.a14:hover{
+    background-color: yellow;
+    transition: 0.7s;
+}
+.a15{
+    color:black;
+    text-decoration: none;
+    font-size:25px;
+    margin: 0 170px;
+    padding: 3px 20px;
+    border-radius: 20px;
+    transition: 0.7s;
+}
+.a15:hover{
+    background-color: yellow;
+    transition: 0.7s;
 }
 .p1{
     border-radius: 20px;
