@@ -24,8 +24,8 @@ nav ul li{
     margin:0 35px;
 }
 nav ul li a:hover{
-    background: rgb(255, 208, 0);
-    transition: 0.7s;
+    color: rgb(255, 208, 0);
+    text-shadow:black 2px 2px 2px;
 }
 nav ul li a{
     color:black;
