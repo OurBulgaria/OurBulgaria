@@ -52,27 +52,19 @@ h5{
 .a7:hover{
     color:orange;
 }
-.a1{
-    color:white;
-    font-size:40px;
-    transition:0.7s;
-
-}
-.a1:hover{
-    background-color: white;
-    color:black;
-    padding: 15px 30px;
-    border-radius: 15px;
-    transition:0.7s;
-}
 .a2{
     float:right;
     font-size:35px;
     color:black;
     background-color:white;
     text-transform: uppercase;
-    padding:10px 20px;
+    padding:5px 20px;
     border-radius:15px;
+    transition:0.2s;
+}
+.a2:hover{
+    background-color:rgb(255, 208, 0);
+    transition:0.2s;
 }
 .a3{
     transition: 0.7s;
@@ -198,14 +190,6 @@ padding:15px 60px;
 .img1{
     padding:20px 600px;
 }
-.img2{
-    transition: 0.7s;
-}
-.img2:hover{
-    background-color: white;
-    border-radius: 15px;
-    transition: 0.7s;
-}
 .img3{
     animation-name:slideInLeft;
     animation-duration:0.6s;
@@ -228,10 +212,43 @@ padding:15px 60px;
 .img8{
     margin:0 170px;
 }
+.img9{
+    transition:0.2s;
+    background-color:white;
+    padding:10px 10px;
+    border-radius:15px;
+    transition:0.2;
+}
+.img9:hover{
+    background-color:rgb(64, 140, 255);
+    transition:0.2;
+}
+.img10{
+    transition:0.2s;
+    background-color:white;
+    padding:10px 10px;
+    border-radius:15px;
+}
+.img10:hover{
+    background-color:red;
+    transition:0.2;
+}
+.img11{
+    transition:0.2s;
+    background-color:white;
+    padding:10px 10px;
+    border-radius:15px;
+}
+.img11:hover{
+    background-color:rgb(255, 0, 255);
+    transition:0.2;
+}
 .tbl1{
     background-color: black;
+    padding:140px 45px;
     margin-left:auto;
     margin-right:auto;
+    width: 1380px;
 }
 .tbl2{
     background-color:black;
