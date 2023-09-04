@@ -193,18 +193,38 @@ padding:15px 60px;
 .img3{
     animation-name:slideInLeft;
     animation-duration:0.6s;
+    transition:0.5s;
+}
+.img3:hover{
+    transition:0.5s;
+    width:600px;
 }
 .img4{
     animation-name:slideInLeft;
     animation-duration:0.7s;
+    transition:0.5s;
+}
+.img4:hover{
+    transition:0.5s;
+    width:600px;
 }
 .img5{
     animation-name:slideInLeft;
     animation-duration:0.8s;
+    transition:0.5s;
+}
+.img5:hover{
+    transition:0.5s;
+    width:600px;
 }
 .img6{
     animation-name:slideInLeft;
     animation-duration:0.9s;
+    transition:0.5s;
+}
+.img6:hover{
+    transition:0.5s;
+    width:600px;
 }
 .img7{
     margin:0 70px;
