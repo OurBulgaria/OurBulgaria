@@ -94,8 +94,8 @@ transition: 0.7s;
     transition:0.2s;
 }
 .a5:hover{
-    color:orange;
     transition:0.2s;
+    color:orange;
 }
 .a6{
 font-size:20px;
@@ -147,9 +147,11 @@ margin:0 240px;
 }
 .a12{
     color:#222;
+    transition:0.2s;
 }
 .a12:hover{
     color:orange;
+    transition:0.2s;
 }
 .p1{
     animation-name:slideInLeft;
