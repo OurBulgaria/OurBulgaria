@@ -22,8 +22,10 @@ nav ul li{
     font-size:20px;
     text-transform:uppercase;
     margin:0 35px;
+    transition:0.2s;
 }
 nav ul li a:hover{
+    transition:0.2s;
     color: rgb(255, 208, 0);
     text-shadow:black 2px 2px 2px;
 }
