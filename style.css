@@ -97,6 +97,13 @@ transition: 0.7s;
     transition:0.2s;
     color:orange;
 }
+h6{
+top:77%;
+left:39%;
+position:absolute;
+color:white;
+font-size:75px;
+}
 .a6{
 font-size:20px;
 color:white;
@@ -152,6 +159,22 @@ margin:0 240px;
 .a12:hover{
     color:orange;
     transition:0.2s;
+}
+.a13{
+    font-size:50px;
+color:white;
+border-radius: 15px;
+background-color: black;
+padding:10px 20px;
+top:90%;
+left:43.5%;
+position:absolute;
+transition:0.5s;
+}
+.a13:hover{
+    transition:0.5s;
+    background-color:yellow;
+    color:black;
 }
 .p1{
     animation-name:slideInLeft;
@@ -268,6 +291,11 @@ padding:15px 60px;
 .img11:hover{
     background-color:rgb(255, 0, 255);
     transition:0.2;
+}
+.img12{
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
 }
 .tbl1{
     background-color: black;
