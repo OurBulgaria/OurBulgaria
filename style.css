@@ -44,6 +44,30 @@ h5{
     font-size: 25px;
 }
 .t1{
+    position:absolute;
+    top:165%;
+    left:13%;
+    font-size:25px;
+    color:white;
+}
+.t2{
+    position:absolute;
+    top:166%;
+    left:33%;
+    font-size:25px;
+    color:white;
+}
+.t3{
+    position:absolute;
+    top:166%;
+    left:53%;
+    font-size:25px;
+    color:white;
+}
+.t4{
+    position:absolute;
+    top:166%;
+    left:76%;
     font-size:25px;
     color:white;
 }
@@ -155,7 +179,7 @@ margin:0 240px;
 .a12{
     font-size:30px;
     position:absolute;
-    top:384%;
+    top:378%;
     left:17%;
     color:white;
     text-shadow:black 3px 3px;
@@ -184,7 +208,7 @@ transition:0.5s;
 .a14{
     font-size:30px;
     position:absolute;
-    top:384%;
+    top:378%;
     left:41%;
     color:white;
     text-shadow:black 3px 3px;
@@ -197,7 +221,7 @@ transition:0.5s;
 .a15{
     font-size:30px;
     position:absolute;
-    top:380.5%;
+    top:374%;
     left:65.5%;
     color:white;
     text-shadow:black 3px 3px;
@@ -210,7 +234,7 @@ transition:0.5s;
 .a16{
     font-size:30px;
     position:absolute;
-    top:415.5%;
+    top:409.5%;
     left:13.5%;
     color:white;
     text-shadow:black 3px 3px;
@@ -223,7 +247,7 @@ transition:0.5s;
 .a17{
     font-size:30px;
     position:absolute;
-    top:415.5%;
+    top:409.5%;
     left:38.5%;
     color:white;
     text-shadow:black 3px 3px;
@@ -236,7 +260,7 @@ transition:0.5s;
 .a18{
     font-size:30px;
     position:absolute;
-    top:415.5%;
+    top:409.5%;
     left:71.7%;
     color:white;
     text-shadow:black 3px 3px;
@@ -319,8 +343,8 @@ padding:15px 60px;
     transition:0.5s;
 }
 .img3:hover{
+    transform:scale(1.2);
     transition:0.5s;
-    width:600px;
 }
 .img4{
     animation-name:slideInLeft;
@@ -328,8 +352,8 @@ padding:15px 60px;
     transition:0.5s;
 }
 .img4:hover{
+    transform:scale(1.2);
     transition:0.5s;
-    width:600px;
 }
 .img5{
     animation-name:slideInLeft;
@@ -337,8 +361,8 @@ padding:15px 60px;
     transition:0.5s;
 }
 .img5:hover{
+    transform:scale(1.2);
     transition:0.5s;
-    width:600px;
 }
 .img6{
     animation-name:slideInLeft;
@@ -346,8 +370,8 @@ padding:15px 60px;
     transition:0.5s;
 }
 .img6:hover{
+    transform:scale(1.2);
     transition:0.5s;
-    width:600px;
 }
 .img7{
     margin:0 70px;
