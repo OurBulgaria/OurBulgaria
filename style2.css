@@ -5,6 +5,8 @@ body{
     margin-right:auto;
     margin-left:auto;
     display:block;
+    background-color:green;
+    padding:30px 30px;
     border-radius:100px;
 }
 .img2{
