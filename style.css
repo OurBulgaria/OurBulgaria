@@ -153,7 +153,12 @@ margin:0 240px;
     background-color: black;
 }
 .a12{
-    color:#222;
+    font-size:30px;
+    position:absolute;
+    top:384%;
+    left:17%;
+    color:white;
+    text-shadow:black 3px 3px;
     transition:0.2s;
 }
 .a12:hover{
@@ -175,6 +180,95 @@ transition:0.5s;
     transition:0.5s;
     background-color:yellow;
     color:black;
+}
+.a14{
+    font-size:30px;
+    position:absolute;
+    top:384%;
+    left:41%;
+    color:white;
+    text-shadow:black 3px 3px;
+    transition:0.2s;
+}
+.a14:hover{
+    color:orange;
+    transition:0.2s;
+}
+.a15{
+    font-size:30px;
+    position:absolute;
+    top:380.5%;
+    left:65.5%;
+    color:white;
+    text-shadow:black 3px 3px;
+    transition:0.2s;
+}
+.a15:hover{
+    color:orange;
+    transition:0.2s;
+}
+.a16{
+    font-size:30px;
+    position:absolute;
+    top:415.5%;
+    left:13.5%;
+    color:white;
+    text-shadow:black 3px 3px;
+    transition:0.2s;
+}
+.a16:hover{
+    color:orange;
+    transition:0.2s;
+}
+.a17{
+    font-size:30px;
+    position:absolute;
+    top:415.5%;
+    left:38.5%;
+    color:white;
+    text-shadow:black 3px 3px;
+    transition:0.2s;
+}
+.a17:hover{
+    color:orange;
+    transition:0.2s;
+}
+.a18{
+    font-size:30px;
+    position:absolute;
+    top:415.5%;
+    left:71.7%;
+    color:white;
+    text-shadow:black 3px 3px;
+    transition:0.2s;
+}
+.a18:hover{
+    color:orange;
+    transition:0.2s;
+}
+.a19{
+    color:#222;
+    transition:0.2s;
+}
+.a19:hover{
+    color:orange;
+    transition:0.2s;
+}
+.a20{
+    color:#222;
+    transition:0.2s;
+}
+.a20:hover{
+    color:orange;
+    transition:0.2s;
+}
+.a21{
+    color:#222;
+    transition:0.2s;
+}
+.a21:hover{
+    color:orange;
+    transition:0.2s;
 }
 .p1{
     animation-name:slideInLeft;
