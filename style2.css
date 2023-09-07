@@ -1,6 +1,4 @@
 body{
-    background-image: url('https://webnews.bg/uploads/images/70/0370/270370/640x.jpg?_=1549990009');
-    background-size:100% 100%;
     font-family: 'Lobster', cursive;
 }
 .img1{
@@ -34,31 +32,25 @@ body{
 .a3{
     color:green;
     text-decoration: none;
-    font-size:40px;
-    margin:0 760px;
+    font-size:35px;
+    margin:0 790px;
 text-shadow: black 2px 2px 2px;
-transition: 0.7s;
+transition: 0.2s;
 }
 .a3:hover{
-    background-color: black;
-    padding: 6px 15px;
-    border-radius: 20px;
-    color:white;
+    color:black;
     text-shadow: green 2px 2px 2px;
-    transition: 0.7s;
+    transition: 0.2s;
 }
 .a4{
     color:green;
     text-decoration: none;
-    transition: 0.7s;
+    transition: 0.2s;
 }
 .a4:hover{
-    background-color: black;
-    padding: 5px 15px;
-    border-radius: 20px;
-    color:white;
+    color:black;
     text-shadow: green 2px 2px 2px;
-    transition: 0.7s;
+    transition: 0.2s;
 }
 .a5{
     font-size:35px;
@@ -81,7 +73,7 @@ transition: 0.7s;
 }
 b{
     font-size:65px;
-    color:white;
+    color:green;
 }
 iframe{
     margin-right:auto;
@@ -89,16 +81,16 @@ iframe{
     display:block;
 }
 .p1{
-    text-align:center;
+    text-align:justify;
     font-size:40px;
-    color:white;
+    color:#222;
     padding:0 400px;
     font-family: 'Marck Script', cursive;
 }
 .p2{
     text-align:center;
     font-size:40px; 
-    color:white;
+    color:#222;
     padding:0 400px;
     font-family: 'Marck Script', cursive;
 }
