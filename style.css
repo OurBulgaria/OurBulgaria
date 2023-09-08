@@ -21,7 +21,7 @@ nav ul li{
     line-height:100px;
     font-size:20px;
     text-transform:uppercase;
-    margin:0 24px;
+    margin:0 15.5px;
     transition:0.2s;
 }
 nav ul li a:hover{
@@ -112,9 +112,9 @@ transition: 0.7s;
     text-align:center;
     color:black;
     background-color:white;
-    padding:30px 110px;  
+    padding:30px 230px;  
     font-size:45px;
-    margin:0 210px;
+    margin:0 220px;
     transition:0.2s;
 }
 .a5:hover{
