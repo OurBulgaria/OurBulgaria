@@ -337,6 +337,13 @@ padding:15px 60px;
 .img1{
     padding:20px 600px;
 }
+.img2{
+    transition:0.3s;
+}
+.img2:hover{
+transition:0.3s;
+transform:scale(1.2);
+}
 .img3{
     animation-name:slideInLeft;
     animation-duration:0.6s;
