@@ -8,7 +8,7 @@ body{
     border-radius:100px;
 }
 .img2{
-    margin:40px 644px;
+    margin:40px 490px;
 }
 h1{
     font-size:50px;
@@ -38,7 +38,7 @@ h1{
     background-color:rgb(146, 66, 0);
     padding:25px 25px;
     border-radius: 20px;
-    margin:0 850px;
+    margin:0 845px;
     transition:0.7s;
 }
 .a3:hover{
