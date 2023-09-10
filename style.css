@@ -13,16 +13,16 @@ nav{
 }
 nav ul{
     float:right;
-    margin-right:60px;
+    margin-right:310px;
 }
 nav ul li{
     color:#222;
     display:inline-block;
     line-height:100px;
-    font-size:20px;
+    font-size:15px;
     text-transform:uppercase;
-    margin:0 15.5px;
     transition:0.2s;
+    margin:0px 5px;
 }
 nav ul li a:hover{
     transition:0.2s;
@@ -45,28 +45,28 @@ h5{
 }
 .t1{
     position:absolute;
-    top:165%;
+    top:164%;
     left:13%;
     font-size:25px;
     color:white;
 }
 .t2{
     position:absolute;
-    top:166%;
+    top:167.5%;
     left:33%;
     font-size:25px;
     color:white;
 }
 .t3{
     position:absolute;
-    top:166%;
+    top:167.5%;
     left:53%;
     font-size:25px;
     color:white;
 }
 .t4{
     position:absolute;
-    top:166%;
+    top:167.5%;
     left:76%;
     font-size:25px;
     color:white;
@@ -179,7 +179,7 @@ margin:0 240px;
 .a12{
     font-size:30px;
     position:absolute;
-    top:375%;
+    top:373.5%;
     left:17%;
     color:white;
     text-shadow:black 3px 3px;
@@ -208,7 +208,7 @@ transition:0.5s;
 .a14{
     font-size:30px;
     position:absolute;
-    top:375%;
+    top:373.5%;
     left:41%;
     color:white;
     text-shadow:black 3px 3px;
@@ -221,7 +221,7 @@ transition:0.5s;
 .a15{
     font-size:30px;
     position:absolute;
-    top:371%;
+    top:369.5%;
     left:65.5%;
     color:white;
     text-shadow:black 3px 3px;
@@ -234,7 +234,7 @@ transition:0.5s;
 .a16{
     font-size:30px;
     position:absolute;
-    top:406.5%;
+    top:405%;
     left:13.5%;
     color:white;
     text-shadow:black 3px 3px;
@@ -247,7 +247,7 @@ transition:0.5s;
 .a17{
     font-size:30px;
     position:absolute;
-    top:406.5%;
+    top:405%;
     left:38.5%;
     color:white;
     text-shadow:black 3px 3px;
@@ -260,7 +260,7 @@ transition:0.5s;
 .a18{
     font-size:30px;
     position:absolute;
-    top:406.5%;
+    top:405%;
     left:71.7%;
     color:white;
     text-shadow:black 3px 3px;
@@ -335,7 +335,7 @@ padding:15px 60px;
     display:inline-block;
 }
 .img1{
-    padding:20px 600px;
+    padding:20px 668px;
 }
 .img2{
     transition:0.3s;
