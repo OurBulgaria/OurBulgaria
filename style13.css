@@ -12,6 +12,9 @@ body{
     margin-left: auto;
     display: block;
 }
+.img3{
+    position: absolute;
+}
 .container{
     animation-name:slideInLeft;
     animation-duration:0.7s;
