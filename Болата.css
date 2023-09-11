@@ -12,10 +12,21 @@ body{
     margin-left:auto;
     display:block;
 }
+.img3{
+    position:absolute;
+    }
+.hh1{
+    text-align:center;
+    text-shadow: orange 2px 2px;
+    font-size:55px;
+}
+.t1{
+font-size:25px;
+}
 .a1{
     color:black;
     font-size: 35px;
-    background-color: yellow;
+    background-color: orange;
     padding:30px 20px;
     border-radius: 15px;
     text-decoration: none;
@@ -24,36 +35,59 @@ body{
 .a2{
     color:white;
     background-color: black;
+    text-transform: uppercase;
      text-decoration:none;
     font-size:35px;
     padding:10px 30px;
 }
-.a3{
+.a4{
     font-size:35px;
     text-decoration:none;
     color:black;
-    background-color: yellow;
+    background-color: orange;
     padding:25px 25px;
     border-radius: 20px;
     margin:0 850px;
     transition:0.7s;
 }
-.a3:hover{
+.a4:hover{
     background-color:black;
-    color:yellow;
+    color:orange;
     transition:0.7s;
 }
 .container{
     animation-name: slideInLeft;
     animation-duration:0.7s;
 }
+.a3{
+    text-decoration: none;
+    font-size:30px;
+    color:black;
+    background-color:rgba(244, 255, 91, 0.788);
+    padding:15px 20px;
+    border-radius:20px;
+    margin:0 730px;
+    transition:0.7s;
+}
+.a3:hover{
+    transition:0.7s;
+    color:rgba(244, 255, 91, 0.788);
+    background-color: black;
+}
 b{
     font-size:65px;
+    color:orange;
+}
+.b1{
+    color:black;
+    font-size: 25px;
 }
 iframe{
     margin-right:auto;
     margin-left:auto;
     display:block;
+    background-color:rgb(54, 54, 54);
+    padding:100px 300px;
 }
 .p1{
     color: #222;
@@ -64,12 +98,11 @@ iframe{
     font-family: 'Marck Script', cursive;
 }
 .p2{
-    color: #222;
-    word-wrap:break-word;
-    text-align:justify;
-    font-size:30px;
-    padding:0 400px;
-    font-family: 'Marck Script', cursive;
+    text-align:center;
+    font-size:25px; 
+}
+.tbl1{
+    width:1925px;
 }
 @keyframes slideInLeft{
     from{
