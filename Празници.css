@@ -67,12 +67,17 @@ body{
     width:1910px;
 }
 .img1{
-    border-radius: 20px;
+    border-radius:20px;
     margin:0 35px;
 }
 .img2{
     border-radius: 20px;
     margin:0 35px;
+}
+.img3{
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
 }
 @keyframes slideInLeft{
     from{
