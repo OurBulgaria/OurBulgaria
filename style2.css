@@ -10,9 +10,7 @@ body{
     border-radius:100px;
 }
 .img2{
-    margin-right:auto;
-    margin-left:auto;
-    display:block;
+position:absolute;
 }
 .a1{
     color:rgb(48, 131, 48);
