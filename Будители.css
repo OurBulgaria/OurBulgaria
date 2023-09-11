@@ -73,6 +73,11 @@ body{
     border-radius: 20px;
     margin:0 35px;
 }
+.img3{
+    margin-right:auto;
+    margin-left:auto;
+    display:block;
+}
 @keyframes slideInLeft{
     from{
         transform: translateX(-1920px);
