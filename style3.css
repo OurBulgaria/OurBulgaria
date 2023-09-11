@@ -12,6 +12,9 @@ border-radius:100px;
     margin-left:auto;
     display:block;
 }
+.img3{
+    position:absolute;
+}
 .a1{
     color:black;
     font-size: 35px;
