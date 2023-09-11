@@ -12,6 +12,9 @@ body{
     margin-left:auto;
     display:block;
 }
+.img3{
+    position: absolute;
+}
 .hh1{
     text-align:center;
     text-shadow: orange 2px 2px;
@@ -75,9 +78,9 @@ iframe{
     color: #222;
     word-wrap:break-word;
     text-align:justify;
-    font-size:20px;
+    font-size:30px;
     padding:0 400px;
-    font-family: 'Lora', serif;
+    font-family: 'Marck Script', cursive;
 }
 .p2{
     text-align:center;
