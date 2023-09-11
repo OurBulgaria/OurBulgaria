@@ -12,6 +12,9 @@ body{
     margin-left:auto;
     display:block;
 }
+.img3{
+position:absolute;
+}
 .hh1{
     text-align:center;
     text-shadow: orange 2px 2px;
