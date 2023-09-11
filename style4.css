@@ -1,6 +1,11 @@
 body{
     font-family: 'Lobster', cursive;
 }
+.img1{
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
 .tbl1{
     padding: 20px 50px;
     width:2050px;
