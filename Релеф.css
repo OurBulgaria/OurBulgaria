@@ -10,6 +10,9 @@ body{
 .img2{
     margin:40px 490px;
 }
+.img3{
+    position:absolute;
+    }
 h1{
     font-size:50px;
     text-shadow:rgb(146, 66, 0) 2px 2px;
