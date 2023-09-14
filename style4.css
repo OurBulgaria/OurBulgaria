@@ -6,7 +6,7 @@ body{
     margin-left: auto;
     display: block;
 }
-.tbl1{
+.tbl1{  
     padding: 20px 50px;
     width:2050px;
 }
@@ -204,6 +204,45 @@ body{
     transition: 0.7s;
 }
 .a15:hover{
+    background-color: yellow;
+    transition: 0.7s;
+}
+.a16{
+    color:black;
+    text-decoration: none;
+    font-size:25px;
+    margin: 0 75px;
+    padding: 3px 20px;
+    border-radius: 20px;
+    transition: 0.7s;
+}
+.a16:hover{
+    background-color: yellow;
+    transition: 0.7s;
+}
+.a17{
+    color:black;
+    text-decoration: none;
+    font-size:25px;
+    margin: 0 160px;
+    padding: 3px 20px;
+    border-radius: 20px;
+    transition: 0.7s;
+}
+.a17:hover{
+    background-color: yellow;
+    transition: 0.7s;
+}
+.a18{
+    color:black;
+    text-decoration: none;
+    font-size:25px;
+    margin: 0 170px;
+    padding: 3px 20px;
+    border-radius: 20px;
+    transition: 0.7s;
+}
+.a18:hover{
     background-color: yellow;
     transition: 0.7s;
 }
