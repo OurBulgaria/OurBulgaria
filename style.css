@@ -109,10 +109,11 @@ transition: 0.7s;
     text-align:center;
     color:black;
     background-color:white;
-    padding:30px 230px;  
+    padding:60px 40px;  
     font-size:45px;
-    margin:0 210px;
+    margin:0 220px;
     transition:0.2s;
+    line-height:10vh;
 }
 .a5:hover{
     transition:0.2s;
