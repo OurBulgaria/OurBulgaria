@@ -120,7 +120,7 @@ transition: 0.7s;
     color:orange;
 }
 h6{
-top:77%;
+top:67%;
 left:39%;
 position:absolute;
 color:white;
@@ -177,7 +177,7 @@ margin:0 240px;
 .a12{
     font-size:30px;
     position:absolute;
-    top:369.5%;
+    top:373.5%;
     left:17%;
     color:white;
     text-shadow:black 3px 3px;
@@ -193,7 +193,7 @@ color:white;
 border-radius: 15px;
 background-color: black;
 padding:10px 20px;
-top:90%;
+top:80%;
 left:43.5%;
 position:absolute;
 transition:0.5s;
@@ -206,7 +206,7 @@ transition:0.5s;
 .a14{
     font-size:30px;
     position:absolute;
-    top:369.5%;
+    top:373.5%;
     left:41%;
     color:white;
     text-shadow:black 3px 3px;
@@ -219,7 +219,7 @@ transition:0.5s;
 .a15{
     font-size:30px;
     position:absolute;
-    top:365.5%;
+    top:369.5%;
     left:65.5%;
     color:white;
     text-shadow:black 3px 3px;
@@ -232,7 +232,7 @@ transition:0.5s;
 .a16{
     font-size:30px;
     position:absolute;
-    top:401%;
+    top:405%;
     left:13.5%;
     color:white;
     text-shadow:black 3px 3px;
@@ -245,7 +245,7 @@ transition:0.5s;
 .a17{
     font-size:30px;
     position:absolute;
-    top:401%;
+    top:405%;
     left:38.5%;
     color:white;
     text-shadow:black 3px 3px;
@@ -258,7 +258,7 @@ transition:0.5s;
 .a18{
     font-size:30px;
     position:absolute;
-    top:401%;
+    top:405%;
     left:71.7%;
     color:white;
     text-shadow:black 3px 3px;
