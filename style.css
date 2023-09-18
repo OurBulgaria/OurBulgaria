@@ -42,29 +42,29 @@ h5{
 }
 .t1{
     position:absolute;
-    top:158%;
+    top:148.5%;
     left:13%;
     font-size:25px;
     color:white;
 }
 .t2{
     position:absolute;
-    top:161.5%;
-    left:33%;
+    top:148.5%;
+    left:34.9%;
     font-size:25px;
     color:white;
 }
 .t3{
     position:absolute;
-    top:161.5%;
-    left:53%;
+    top:152%;
+    left:52.3%;
     font-size:25px;
     color:white;
 }
 .t4{
     position:absolute;
-    top:161.5%;
-    left:76%;
+    top:148.5%;
+    left:72.2%;
     font-size:25px;
     color:white;
 }
@@ -121,7 +121,7 @@ transition: 0.7s;
 }
 h6{
 top:67%;
-left:39%;
+left:37.5%;
 position:absolute;
 color:white;
 font-size:75px;
@@ -166,7 +166,7 @@ margin:0 240px;
     background-color:rgba(244, 255, 91, 0.788);
     padding:15px 20px;
     border-radius:20px;
-    margin:0 30px;
+    margin:0 155px;
     transition:0.7s;
 }
 .a11:hover{
@@ -177,7 +177,7 @@ margin:0 240px;
 .a12{
     font-size:30px;
     position:absolute;
-    top:373.5%;
+    top:363.5%;
     left:17%;
     color:white;
     text-shadow:black 3px 3px;
@@ -206,7 +206,7 @@ transition:0.5s;
 .a14{
     font-size:30px;
     position:absolute;
-    top:373.5%;
+    top:363.5%;
     left:41%;
     color:white;
     text-shadow:black 3px 3px;
@@ -219,7 +219,7 @@ transition:0.5s;
 .a15{
     font-size:30px;
     position:absolute;
-    top:369.5%;
+    top:359.5%;
     left:65.5%;
     color:white;
     text-shadow:black 3px 3px;
@@ -232,7 +232,7 @@ transition:0.5s;
 .a16{
     font-size:30px;
     position:absolute;
-    top:405%;
+    top:395%;
     left:13.5%;
     color:white;
     text-shadow:black 3px 3px;
@@ -245,7 +245,7 @@ transition:0.5s;
 .a17{
     font-size:30px;
     position:absolute;
-    top:405%;
+    top:395%;
     left:38.5%;
     color:white;
     text-shadow:black 3px 3px;
@@ -258,7 +258,7 @@ transition:0.5s;
 .a18{
     font-size:30px;
     position:absolute;
-    top:405%;
+    top:395%;
     left:71.7%;
     color:white;
     text-shadow:black 3px 3px;
