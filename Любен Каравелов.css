@@ -21,7 +21,7 @@ body{
     font-size:55px;
 }
 .t1{
-font-size:25px;
+font-size:20px;
 }
 .a1{
     color:black;
@@ -72,7 +72,7 @@ iframe{
     margin-left:auto;
     display:block;
     background-color:rgb(54, 54, 54);
-    padding:100px 300px;
+    padding:50px 50px;
 }
 .p1{
     color: #222;
@@ -87,7 +87,9 @@ iframe{
     font-size:25px; 
 }
 .tbl1{
-    width:2150px;
+    margin-right:auto;
+    margin-left:auto;
+    text-align:center;
 }
 @keyframes slideInLeft{
     from{
