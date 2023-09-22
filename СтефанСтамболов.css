@@ -13,6 +13,11 @@ body{
     display:block;
 }
 .img3{
+    margin-right:auto;
+    margin-left:auto;
+    display:block;
+}
+.img4{
     position:absolute;
     }
 .hh1{
@@ -30,7 +35,7 @@ font-size:25px;
     padding:30px 20px;
     border-radius: 15px;
     text-decoration: none;
-    margin:0px 775px;
+    margin:0px 780px;
 }
 .a2{
     color:white;
@@ -40,7 +45,26 @@ font-size:25px;
     font-size:35px;
     padding:10px 30px;
 }
+.container{
+    animation-name: slideInLeft;
+    animation-duration:0.7s;
+}
 .a3{
+    text-decoration: none;
+    font-size:30px;
+    color:black;
+    background-color:rgba(244, 255, 91, 0.788);
+    padding:15px 20px;
+    border-radius:20px;
+    margin:0 630px;
+    transition:0.7s;
+}
+.a3:hover{
+    transition:0.7s;
+    color:rgba(244, 255, 91, 0.788);
+    background-color: black;
+}
+.a4{
     font-size:35px;
     text-decoration:none;
     color:black;
@@ -50,14 +74,10 @@ font-size:25px;
     margin:0 850px;
     transition:0.7s;
 }
-.a3:hover{
+.a4:hover{
     background-color:black;
     color:orange;
     transition:0.7s;
-}
-.container{
-    animation-name: slideInLeft;
-    animation-duration:0.7s;
 }
 b{
     font-size:65px;
@@ -67,16 +87,12 @@ b{
     color:black;
     font-size: 25px;
 }
-.b2{
-    font-size:20px;
-    color:black;
-}
 iframe{
     margin-right:auto;
     margin-left:auto;
     display:block;
     background-color:rgb(54, 54, 54);
-    padding:100px 310px;
+    padding:50px 50px;
 }
 .p1{
     color: #222;
@@ -91,7 +107,9 @@ iframe{
     font-size:25px; 
 }
 .tbl1{
-    width:2000px;
+   margin-left:auto;
+margin-right:auto;
+text-align:center;
 }
 @keyframes slideInLeft{
     from{
