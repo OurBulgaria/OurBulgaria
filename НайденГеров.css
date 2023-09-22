@@ -72,7 +72,7 @@ iframe{
     margin-left:auto;
     display:block;
     background-color:rgb(54, 54, 54);
-    padding:100px 465px;
+    padding:50px 50px;
 }
 .p1{
     color: #222;
@@ -85,6 +85,11 @@ iframe{
 .p2{
     text-align:center;
     font-size:25px; 
+}
+.tbl1{
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
 }
 @keyframes slideInLeft{
     from{
