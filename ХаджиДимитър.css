@@ -107,7 +107,9 @@ iframe{
     font-size:25px; 
 }
 .tbl1{
-    width:1925px;
+    margin-left:auto;
+    margin-right:auto;
+text-align:center;
 }
 @keyframes slideInLeft{
     from{
