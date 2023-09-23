@@ -7,28 +7,35 @@ body{
     display:block;
     border-radius:100px;
 }
+.img3{
+    position:absolute;
+    }
 .img2{
     margin-right:auto;
     margin-left:auto;
     display:block;
 }
+.hh1{
+    text-align:center;
+    text-shadow: orange 2px 2px;
+    font-size:55px;
+}
+.t1{
+font-size:25px;
+}
 .a1{
     color:black;
     font-size: 35px;
-    background:linear-gradient(
-        to bottom,
-        white,
-        green,
-        red
-    );
+    background-color: orange;
     padding:30px 20px;
     border-radius: 15px;
     text-decoration: none;
-    margin:0px 860px;
+    margin:0px 810px;
 }
 .a2{
     color:white;
     background-color: black;
+    text-transform: uppercase;
      text-decoration:none;
     font-size:35px;
     padding:10px 30px;
@@ -37,12 +44,7 @@ body{
     font-size:35px;
     text-decoration:none;
     color:black;
-    background:linear-gradient(
-        to bottom,
-        white,
-        green,
-        red
-    );
+    background-color: orange;
     padding:25px 25px;
     border-radius: 20px;
     margin:0 850px;
@@ -50,7 +52,7 @@ body{
 }
 .a3:hover{
     background-color:black;
-    color:white;
+    color:orange;
     transition:0.7s;
 }
 .container{
@@ -59,11 +61,18 @@ body{
 }
 b{
     font-size:65px;
+    color:orange;
+}
+.b1{
+    color:black;
+    font-size: 25px;
 }
 iframe{
     margin-right:auto;
     margin-left:auto;
     display:block;
+    background-color:rgb(54, 54, 54);
+    padding:50px 50px;
 }
 .p1{
     color: #222;
@@ -74,12 +83,13 @@ iframe{
     font-family: 'Marck Script', cursive;
 }
 .p2{
-    color: #222;
-    word-wrap:break-word;
-    text-align:justify;
-    font-size:30px;
-    padding:0 400px;
-    font-family: 'Marck Script', cursive;
+    text-align:center;
+    font-size:25px; 
+}
+.tbl1{
+    text-align:center;
+    margin-right:auto;
+    margin-left:auto;
 }
 @keyframes slideInLeft{
     from{
