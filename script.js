@@ -4,4 +4,4 @@ document.getElementById("myLabel").innerHTML = name1;
 
 while(name == ""){
     name = window.prompt("Как се казвате?");
-}с
+}
