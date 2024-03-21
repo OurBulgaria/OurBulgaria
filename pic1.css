@@ -1,0 +1,28 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.img1{
+    margin:10px 0px;
+    background-color:black;
+    padding:30px 30px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+.img2{
+    position:absolute;
+}
+.a1{
+    position:absolute;
+    text-decoration:none;
+    font-size:35px;
+    color:rgb(255, 208, 0);
+    margin:150px 20px;
+    text-shadow:black 3px 3px 3px;
+    transition:0.3s;
+}
+.a1:hover{
+    transition:0.3s;
+    color:black;
+    text-shadow:rgb(255, 208, 0) 3px 3px 3px;
+}

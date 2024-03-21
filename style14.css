@@ -1,0 +1,56 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.tbl1{
+    text-align:center;
+    width:1905px;
+    margin:250px 0px;
+    animation-name:slideInLeft;
+    animation-duration:0.7s;
+}
+.img1{
+    background:linear-gradient(
+to bottom,
+rgb(255, 208, 0),
+black
+    );
+    padding:20px 20px;
+    border-radius:25px;
+}
+.img2{
+    position:absolute;
+    margin:440px 880px;
+}
+.a1{
+    text-decoration:none;
+    font-size:35px;
+    color:black;
+    transition:0.5s;
+}
+.a1:hover{
+    transition:0.5s;
+    color:rgb(255, 208, 0);
+    text-shadow:black 3px 3px 3px;
+}
+.a2{
+    position:absolute;
+    text-decoration:none;
+    font-size:35px;
+    color:rgb(255, 208, 0);
+    margin:600px 900px;
+    text-shadow:black 3px 3px 3px;
+    transition:0.3s;
+}
+.a2:hover{
+    transition:0.3s;
+    color:black;
+    text-shadow:rgb(255, 208, 0) 3px 3px 3px;
+}
+@keyframes slideInLeft{
+    from{
+        transform:translateX(-1920px);
+    }
+    to{
+        transform: translateX(0);
+    }
+}

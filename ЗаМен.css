@@ -1,0 +1,77 @@
+body{
+  font-family: 'Roboto', sans-serif;
+  color:rgb(54, 54, 54);
+}
+.h1{
+    text-align:center;
+    font-size:55px;
+}
+.h2{
+  text-align:center;
+  font-size:55px;
+}
+.tbl1{
+  width:1870px;
+}
+.img1{
+    float:right;
+    background-color:rgb(54, 54, 54);
+    padding:60px 60px;
+    border-radius:20px;
+}
+.img2{
+  position:absolute;
+}
+.h21{
+font-size:45px;
+}
+.h22{
+  font-size:40px;
+}
+.p1{
+font-size:35px;
+background-color:grey;
+padding:10px 10px;
+border-radius:15px;
+}
+.p2{
+  font-size:35px;
+  background-color:grey;
+  padding:10px 10px;
+border-radius:15px;
+  }
+  .p3{
+    font-size:35px;
+    background-color:grey;
+    padding:10px 10px;
+border-radius:15px;
+    }
+    .p4{
+      font-size:35px;
+      background-color:grey;
+      padding:10px 10px;
+border-radius:15px;
+      }
+      .p5{
+        font-size:35px;
+        background-color:grey;
+        padding:10px 10px;
+  border-radius:15px;
+        }
+        .p6{
+          font-size:35px;
+          background-color:grey;
+          padding:10px 10px;
+    border-radius:15px;
+          }
+          .p7{
+            font-size:35px;
+            background-color:grey;
+            padding:10px 10px;
+      border-radius:15px;
+            }
+          
+            .p8{
+              font-size:30px;
+              text-align:justify;
+            }

@@ -1,0 +1,118 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.img1{
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    border-radius: 100px;
+}
+.img2{
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+.img3{
+    position: absolute;
+}
+.container{
+    animation-name:slideInLeft;
+    animation-duration:0.7s;
+}
+.a1{
+    color:orange;
+    text-decoration: none;
+    font-size:85px;
+    margin:0 520px;
+    text-shadow:black 5px 5px 5px;
+}
+.a2{
+    font-size:35px;
+    text-decoration:none;
+    color:black;
+    background-color: orange;
+    padding:25px 25px;
+    border-radius: 20px;
+    margin:0 850px;
+    transition:0.7s;
+}
+.a2:hover{
+    background-color:black;
+    color:orange;
+    transition:0.7s;
+}
+.a3{
+    position:absolute;
+    text-decoration:none;
+    font-size:35px;
+    color:rgb(255, 208, 0);
+    margin:150px 20px;
+    text-shadow:black 3px 3px 3px;
+    transition:0.3s;
+}
+.a3:hover{
+    transition:0.3s;
+    color:black;
+    text-shadow:rgb(255, 208, 0) 3px 3px 3px;
+}
+.a4{
+    position:absolute;
+    text-decoration:none;
+    font-size:35px;
+    color:rgb(255, 208, 0);
+    margin:150px 20px;
+    text-shadow:black 3px 3px 3px;
+    transition:0.3s;
+}
+.a4:hover{
+    transition:0.3s;
+    color:black;
+    text-shadow:rgb(255, 208, 0) 3px 3px 3px;
+}
+.p1{
+    font-size:30px;
+    color:black;
+    text-align: justify;
+    font-family: 'Marck Script', cursive;
+    padding:0 400px;
+}   
+h1{
+font-size:50px;
+text-align: center;
+color:black;
+text-shadow:orange 2px 2px;
+}
+h2{
+    text-align:center;
+    color:black;
+    font-size:50px;
+}
+td{
+    font-size:40px;
+    color:black;
+}
+.t1{
+    text-align:center;
+}
+b{
+    font-size:65px;
+}
+.tbl1{
+    text-align:center;
+    margin-left:auto;
+    margin-right:auto;
+}
+@keyframes slideInLeft{
+    from{
+        transform: translateX(-1920px);
+    }
+    to{
+        transform:translateX(0);
+    }
+}
+@keyframes moveup{
+100%{
+    opacity:1;
+    transform:translateY(-200px);
+}
+}

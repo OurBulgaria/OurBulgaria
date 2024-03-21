@@ -1,0 +1,472 @@
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+label{
+    color:black;
+    position:absolute;
+    font-size:35px;
+    margin:10px 10px;
+    text-align:center;
+    background-color:rgb(85, 85, 85);
+    padding:20px 20px;
+    border-radius:20px;
+    text-shadow:rgb(255, 208, 0) 1px 1px 1px;
+    box-shadow:rgb(255, 208, 0) 15px 15px 15px;
+}
+*{
+padding:0;
+margin:0;
+text-decoration: none;
+list-style:none;
+}
+nav{
+    background-color:white;
+}
+nav ul{
+    float:right;
+    margin-right:450px;
+}
+nav ul li{
+    color:#222;
+    display:inline-block;
+    line-height:100px;
+    font-size:15px;
+    text-transform:uppercase;
+    transition:0.2s;
+    margin:0px 11px;
+}
+nav ul li a:hover{
+    transition:0.2s;
+    color: rgb(255, 208, 0);
+    text-shadow:black 2px 2px 2px;
+}
+nav ul li a{
+    color:black;
+}
+b{
+    color:white;
+    text-transform: uppercase;
+    font-size:35px;
+}
+h5{
+    color:white;
+    font-size: 25px;
+}
+.t1{
+    position:absolute;
+    top:168.5%;
+    left:13%;
+    font-size:25px;
+    color:white;
+}
+.t2{
+    position:absolute;
+    top:168.5%;
+    left:34.9%;
+    font-size:25px;
+    color:white;
+}
+.t3{
+    position:absolute;
+    top:169%;
+    left:52.3%;
+    font-size:25px;
+    color:white;
+}
+.t4{
+    position:absolute;
+    top:168.5%;
+    left:72.2%;
+    font-size:25px;
+    color:white;
+}
+.a7{
+    font-size:30px;
+    color:black;
+}
+.a7:hover{
+    color:orange;
+}
+.a2{
+    float:right;
+    font-size:35px;
+    color:black;
+    background-color:white;
+    text-transform: uppercase;
+    padding:5px 20px;
+    border-radius:15px;
+    transition:0.2s;
+}
+.a2:hover{
+    background-color:rgb(255, 208, 0);
+    transition:0.2s;
+}
+.a3{
+    transition: 0.7s;
+}
+.a3:hover{
+background-color:white;
+transition: 0.7s;
+}
+.a4{
+    background-color:black;
+    color:white;
+    width:50px;
+    font-size:30px;
+    padding:10px 10px;
+    margin:0 400px;
+    text-align:center;
+}
+.a5{
+    text-align:center;
+    color:black;
+    background-color:white;
+    padding:60px 40px;  
+    font-size:45px;
+    margin:0 220px;
+    transition:0.2s;
+    line-height:10vh;
+}
+.a5:hover{
+    transition:0.2s;
+    color:orange;
+}
+h6{
+top:70%;
+left:37.5%;
+position:absolute;
+color:white;
+font-size:75px;
+}
+.a6{
+font-size:20px;
+color:white;
+background-color: black;
+padding:3px 5px;
+margin:0 250px;
+}
+.a8{
+font-size:30px;
+color:white;
+background-color: black;
+padding:3px 10px;
+margin:0 240px;
+}
+.a9{
+    font-size:25px;
+    margin:0 650px;
+    text-shadow:white 1px 1px 1px;
+    color:rgb(255, 208, 0);
+    background-color:black;
+    padding:10px 50px;
+    text-transform:uppercase;
+}
+.a10{
+    color:black;
+    font-size:35px;
+    margin:0 480px;
+    text-shadow:yellow 2px 2px;
+    text-transform:uppercase;
+}
+.a10:hover{
+    color:yellow;
+    text-shadow:black 3px 3px;
+}
+.a11{
+    font-size:26px;
+    color:black;
+    background-color:rgba(244, 255, 91, 0.788);
+    padding:15px 20px;
+    border-radius:20px;
+    margin:0 155px;
+    transition:0.7s;
+}
+.a11:hover{
+    transition:0.7s;
+    color:rgba(244, 255, 91, 0.788);
+    background-color: black;
+}
+.a12{
+    font-size:30px;
+    position:absolute;
+    top:384.5%;
+    left:17%;
+    color:white;
+    text-shadow:black 3px 3px;
+    transition:0.2s;
+}
+.a12:hover{
+    color:rgb(255, 208, 0);
+    transition:0.2s;
+}
+.a13{
+    font-size:50px;
+color:white;
+border-radius: 15px;
+background-color: black;
+padding:10px 20px;
+top:82%;
+left:43.5%;
+position:absolute;
+transition:0.5s;
+}
+.a13:hover{
+    transition:0.5s;
+    background-color:rgb(255, 208, 0);
+    color:black;
+}
+.a14{
+    font-size:30px;
+    position:absolute;
+    top:384.5%;
+    left:41%;
+    color:white;
+    text-shadow:black 3px 3px;
+    transition:0.2s;
+}
+.a14:hover{
+    color:rgb(255, 208, 0);
+    transition:0.2s;
+}
+.a15{
+    font-size:30px;
+    position:absolute;
+    top:384.5%;
+    left:65.5%;
+    color:white;
+    text-shadow:black 3px 3px;
+    transition:0.2s;
+}
+.a15:hover{
+    color:rgb(255, 208, 0);
+    transition:0.2s;
+}
+.a16{
+    font-size:30px;
+    position:absolute;
+    top:416%;
+    left:13.5%;
+    color:white;
+    text-shadow:black 3px 3px;
+    transition:0.2s;
+}
+.a16:hover{
+    color:rgb(255, 208, 0);
+    transition:0.2s;
+}
+.a17{
+    font-size:30px;
+    position:absolute;
+    top:416%;
+    left:38.5%;
+    color:white;
+    text-shadow:black 3px 3px;
+    transition:0.2s;
+}
+.a17:hover{
+    color:rgb(255, 208, 0);
+    transition:0.2s;
+}
+.a18{
+    font-size:30px;
+    position:absolute;
+    top:416%;
+    left:71.7%;
+    color:white;
+    text-shadow:black 3px 3px;
+    transition:0.2s;
+}
+.a18:hover{
+    color:rgb(255, 208, 0);
+    transition:0.2s;
+}
+.a19{
+    color:#222;
+    transition:0.2s;
+}
+.a19:hover{
+    color:orange;
+    transition:0.2s;
+}
+.a20{
+    color:#222;
+    transition:0.2s;
+}
+.a20:hover{
+    color:orange;
+    transition:0.2s;
+}
+.a21{
+    color:#222;
+    transition:0.2s;
+}
+.a21:hover{
+    color:orange;
+    transition:0.2s;
+}
+.p1{
+    animation-name:slideInLeft;
+    animation-duration:3s;
+    padding:40px 30px;
+}
+.p2{
+    text-align:justify;
+    font-size:20px;
+    margin:0 250px;
+}
+.seven{
+line-height:170px;
+margin: 0 180px;
+color:white;
+text-decoration: none;
+font-size:35px;
+background-color: black;
+border-radius:15px;
+padding:15px 60px;
+}
+.seven:hover{
+    background-color:yellow;
+    transition: 0.7s;
+    box-shadow: black 5px 5px 5px;
+    text-shadow: black 2px 2px 2px;
+}
+.text{
+    padding:140px 230px;
+}
+.title{
+    font-size:65px;
+    color:white;
+}
+.txt{
+    font-size:35px;
+    color:black;
+    text-shadow:yellow 2px 2px 2px;
+}
+.container{
+    display:inline-block;
+}
+.img1{
+    padding:20px 668px;
+}
+.img2{
+    transition:0.3s;
+}
+.img2:hover{
+transition:0.3s;
+transform:scale(1.2);
+}
+.img3{
+    animation-name:slideInLeft;
+    animation-duration:0.6s;
+    transition:0.5s;
+}
+.img3:hover{
+    transform:scale(1.2);
+    transition:0.5s;
+}
+.img4{
+    animation-name:slideInLeft;
+    animation-duration:0.7s;
+    transition:0.5s;
+}
+.img4:hover{
+    transform:scale(1.2);
+    transition:0.5s;
+}
+.img5{
+    animation-name:slideInLeft;
+    animation-duration:0.8s;
+    transition:0.5s;
+}
+.img5:hover{
+    transform:scale(1.2);
+    transition:0.5s;
+}
+.img6{
+    animation-name:slideInLeft;
+    animation-duration:0.9s;
+    transition:0.5s;
+}
+.img6:hover{
+    transform:scale(1.2);
+    transition:0.5s;
+}
+.img7{
+    margin:0 70px;
+}
+.img8{
+    margin:0 170px;
+}
+.img9{
+    transition:0.2s;
+    background-color:white;
+    padding:10px 10px;
+    border-radius:25px;
+    transition:0.2;
+}
+.img9:hover{
+    background-color:rgb(64, 140, 255);
+    transition:0.2;
+}
+.img10{
+    transition:0.2s;
+    background-color:white;
+    padding:10px 10px;
+    border-radius:25px;
+}
+.img10:hover{
+    background-color:red;
+    transition:0.2;
+}
+.img11{
+    transition:0.2s;
+    background-color:white;
+    padding:10px 10px;
+    border-radius:25px;
+}
+.img11:hover{
+    background-color:rgb(255, 0, 255);
+    transition:0.2;
+}
+.img12{
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+    background-color:rgb(255, 208, 0);
+    padding:40px 40px;
+    border-radius: 20px;
+}
+.tbl1{
+    background-color: black;
+    padding:40px 45px;
+    margin-left:auto;
+    margin-right:auto;
+    width: 1380px;
+}
+.tbl2{
+    background-color:black;
+    text-align:center;
+    margin-left:auto;
+    margin-right:auto;
+}
+.tbl4{
+    width:1600px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+}
+@keyframes slideInLeft{
+    from{
+        transform:translateX(-1920px);
+    }
+    to{
+        transform:translateX(0);
+    }
+}
+@keyframes moveup{
+    100%{
+        opacity:1;
+        transform:translateY(80px);
+    }
+}

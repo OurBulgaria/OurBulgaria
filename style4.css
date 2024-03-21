@@ -1,0 +1,315 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.img1{
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+.tbl1{  
+    padding: 20px 50px;
+    width:2050px;
+}
+.a1{
+    color:black;
+    text-decoration: none;
+    font-size:25px;
+    margin: 0 110px;
+    padding: 3px 20px;
+    border-radius: 20px;
+    transition: 0.7s;
+}
+.a1:hover{
+    background-color: yellow;
+    transition: 0.7s;
+}
+.a2{
+    color:black;
+    text-decoration: none;
+    font-size:25px;
+    margin: 0 170px;
+    padding: 3px 20px;
+    border-radius: 20px;
+    transition: 0.7s;
+}
+.a2:hover{
+    background-color: yellow;
+    transition: 0.7s;
+}
+.a3{
+    color:black;
+    text-decoration: none;
+    font-size:25px;
+    margin: 0 110px;
+    padding: 3px 20px;
+    border-radius: 20px;
+    transition: 0.7s;
+}
+.a3:hover{
+    background-color: yellow;
+    transition: 0.7s;
+}
+.a4{
+    color:black;
+    text-decoration: none;
+    font-size:25px;
+    margin: 0 180px;
+    padding: 3px 20px;
+    border-radius: 20px;
+    transition: 0.7s;
+}
+.a4:hover{
+    background-color: yellow;
+    transition: 0.7s;
+}
+.a5{
+    color:black;
+    text-decoration: none;
+    font-size:25px;
+    margin: 0 120px;
+    padding: 3px 20px;
+    border-radius: 20px;
+    transition: 0.7s;
+}
+.a5:hover{
+    background-color: yellow;
+    transition: 0.7s;
+}
+.a6{
+    color:black;
+    text-decoration: none;
+    font-size:25px;
+    margin: 0 160px;
+    padding: 3px 20px;
+    border-radius: 20px;
+    transition: 0.7s;
+}
+.a6:hover{
+    background-color: yellow;
+    transition: 0.7s;
+}
+.a7{
+    color:black;
+    text-decoration: none;
+    font-size:25px;
+    margin: 0 135px;
+    padding: 3px 20px;
+    border-radius: 20px;
+    transition: 0.7s;
+}
+.a7:hover{
+    background-color: yellow;
+    transition: 0.7s;
+}
+.a8{
+    color:black;
+    text-decoration: none;
+    font-size:25px;
+    margin: 0 110px;
+    padding: 3px 20px;
+    border-radius: 20px;
+    transition: 0.7s;
+}
+.a8:hover{
+    background-color: yellow;
+    transition: 0.7s;
+}
+.a9{
+    color:black;
+    text-decoration: none;
+    font-size:25px;
+    margin: 0 135px;
+    padding: 3px 20px;
+    border-radius: 20px;
+    transition: 0.7s;
+}
+.a9:hover{
+    background-color: yellow;
+    transition: 0.7s;
+}
+.a10{
+    font-size:35px;
+    text-decoration: none;
+    background-color:yellow;
+    color:black;
+    padding: 10px 20px;
+    border-radius:15px;
+    transition:0.7s;
+}
+.a10:hover{
+    background-color: black;
+    color:yellow;
+    text-shadow:white 1px 1px;
+    transition:0.7s;
+}
+.a11{
+    color:black;
+    text-decoration: none;
+    font-size:25px;
+    margin: 0 170px;
+    padding: 3px 20px;
+    border-radius: 20px;
+    transition: 0.7s;
+}
+.a11:hover{
+    background-color: yellow;
+    transition: 0.7s;
+}
+.a12{
+    color:black;
+    text-decoration: none;
+    font-size:25px;
+    margin: 0 180px;
+    padding: 3px 20px;
+    border-radius: 20px;
+    transition: 0.7s;
+}
+.a12:hover{
+    background-color: yellow;
+    transition: 0.7s;
+}
+.a13{
+    color:black;
+    text-decoration: none;
+    font-size:25px;
+    margin: 0 150px;
+    padding: 3px 20px;
+    border-radius: 20px;
+    transition: 0.7s;
+}
+.a13:hover{
+    background-color: yellow;
+    transition: 0.7s;
+}
+.a14{
+    color:black;
+    text-decoration: none;
+    font-size:25px;
+    margin: 0 170px;
+    padding: 3px 20px;
+    border-radius: 20px;
+    transition: 0.7s;
+}
+.a14:hover{
+    background-color: yellow;
+    transition: 0.7s;
+}
+.a15{
+    color:black;
+    text-decoration: none;
+    font-size:25px;
+    margin: 0 150px;
+    padding: 3px 20px;
+    border-radius: 20px;
+    transition: 0.7s;
+}
+.a15:hover{
+    background-color: yellow;
+    transition: 0.7s;
+}
+.a16{
+    color:black;
+    text-decoration: none;
+    font-size:25px;
+    margin: 0 75px;
+    padding: 3px 20px;
+    border-radius: 20px;
+    transition: 0.7s;
+}
+.a16:hover{
+    background-color: yellow;
+    transition: 0.7s;
+}
+.a17{
+    color:black;
+    text-decoration: none;
+    font-size:25px;
+    margin: 0 160px;
+    padding: 3px 20px;
+    border-radius: 20px;
+    transition: 0.7s;
+}
+.a17:hover{
+    background-color: yellow;
+    transition: 0.7s;
+}
+.a18{
+    color:black;
+    text-decoration: none;
+    font-size:25px;
+    margin: 0 170px;
+    padding: 3px 20px;
+    border-radius: 20px;
+    transition: 0.7s;
+}
+.a18:hover{
+    background-color: yellow;
+    transition: 0.7s;
+}
+.a19{
+    position:absolute;
+    text-decoration:none;
+    font-size:35px;
+    color:rgb(255, 208, 0);
+    margin:0px 885px;
+    text-shadow:black 3px 3px 3px;
+    transition:0.3s;
+}
+.a19:hover{
+    transition:0.3s;
+    color:black;
+    text-shadow:rgb(255, 208, 0) 3px 3px 3px;
+}
+.p1{
+    border-radius: 20px;
+    animation-name: slideInLeft;
+    animation-duration:0.90s;
+}
+.p2{
+    border-radius: 20px;
+    animation-name: slideInLeft;
+    animation-duration:0.80s;
+}
+.p3{
+    border-radius: 20px;
+    animation-name: slideInLeft;
+    animation-duration:0.70s;
+}
+.p4{
+    border-radius: 20px;
+    animation-name: slideInLeft;
+    animation-duration:0.90s;
+}
+.p5{
+    border-radius: 20px;
+    animation-name: slideInLeft;
+    animation-duration:0.80s;   
+}
+.p6{
+    border-radius: 20px;
+    animation-name: slideInLeft;
+    animation-duration:0.70s; 
+}
+.p7{
+    border-radius: 20px;
+    animation-name: slideInLeft;
+    animation-duration:0.90s; 
+}
+.p8{
+    border-radius: 20px;
+    animation-name: slideInLeft;
+    animation-duration:0.80s; 
+}
+.p9{
+    border-radius: 20px;
+    animation-name: slideInLeft;
+    animation-duration:0.70s; 
+}
+@keyframes slideInLeft{
+    from{
+        transform:translateX(-1920px);
+    }
+    to{
+        transform: translateX(0);
+    }
+}

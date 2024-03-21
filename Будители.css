@@ -1,0 +1,102 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.a1{
+    font-size:25px;
+    text-decoration: none;
+    color:black;
+    transition:0.3s;
+}
+.a1:hover{
+    color:orange;
+    transition:0.3s;
+}
+.a2{
+    text-align:center;
+    font-size:25px;
+    text-decoration: none;
+    color:black;
+    transition:0.3s;
+}
+.a2:hover{
+    color:orange;
+    transition:0.3s;
+}
+.a3{
+    position:absolute;
+    text-decoration:none;
+    font-size:35px;
+    color:rgb(255, 208, 0);
+    margin:0px 885px;
+    text-shadow:black 3px 3px 3px;
+    transition:0.3s;
+}
+.a3:hover{
+    transition:0.3s;
+    color:black;
+    text-shadow:rgb(255, 208, 0) 3px 3px 3px;
+}
+.t1{
+    animation-name: slideInLeft;
+    animation-duration:0.90s;
+}
+.t2{
+    animation-name: slideInLeft;
+    animation-duration:0.80s;
+}
+.t3{
+    animation-name: slideInLeft;
+    animation-duration:0.70s;
+}
+.t4{
+    animation-name: slideInLeft;
+    animation-duration:0.60s;
+}
+.t5{
+    animation-name: slideInLeft;
+    animation-duration:0.50s;
+}
+.t6{
+    animation-name: slideInLeft;
+    animation-duration:0.90s;
+}
+.t7{
+    animation-name: slideInLeft;
+    animation-duration:0.80s;
+}
+.t8{
+    animation-name: slideInLeft;
+    animation-duration:0.70s;
+}
+.t9{
+    animation-name: slideInLeft;
+    animation-duration:0.60s;
+}
+.t10{
+    animation-name: slideInLeft;
+    animation-duration:0.50s;
+}
+.tbl1{
+    text-align:center;
+}
+.img1{
+    border-radius: 20px;
+    margin:0 35px;
+}
+.img2{
+    border-radius: 20px;
+    margin:0 35px;
+}
+.img3{
+    margin-right:auto;
+    margin-left:auto;
+    display:block;
+}
+@keyframes slideInLeft{
+    from{
+        transform: translateX(-1920px);
+    }
+    to{
+transform: translateX(0);
+    }
+}
