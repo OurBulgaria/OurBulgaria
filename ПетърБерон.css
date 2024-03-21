@@ -1,0 +1,117 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.img1{
+    margin-right:auto;
+    margin-left:auto;
+    display:block;
+    border-radius:100px;
+}
+.img2{
+    margin-right:auto;
+    margin-left:auto;
+    display:block;
+}
+.img3{
+    position:absolute;
+    }
+.hh1{
+    text-align:center;
+    text-shadow: orange 2px 2px;
+    font-size:55px;
+}
+.t1{
+font-size:25px;
+}
+.a1{
+    color:black;
+    font-size: 35px;
+    background-color: orange;
+    padding:30px 20px;
+    border-radius: 15px;
+    text-decoration: none;
+    margin:0px 780px;
+}
+.a2{
+    color:white;
+    background-color: black;
+    text-transform: uppercase;
+     text-decoration:none;
+    font-size:35px;
+    padding:10px 30px;
+}
+.a3{
+    font-size:35px;
+    text-decoration:none;
+    color:black;
+    background-color: orange;
+    padding:25px 25px;
+    border-radius: 20px;
+    margin:0 850px;
+    transition:0.7s;
+}
+.a3:hover{
+    background-color:black;
+    color:orange;
+    transition:0.7s;
+}
+.a4{
+    position:absolute;
+    text-decoration:none;
+    font-size:35px;
+    color:rgb(255, 208, 0);
+    margin:150px 20px;
+    text-shadow:black 3px 3px 3px;
+    transition:0.3s;
+}
+.a4:hover{
+    transition:0.3s;
+    color:black;
+}
+.container{
+    animation-name: slideInLeft;
+    animation-duration:0.7s;
+}
+b{
+    font-size:65px;
+    color:orange;
+}
+.b1{
+    color:black;
+    font-size: 25px;
+}
+.b2{
+    font-size:20px;
+    color:black;
+}
+iframe{
+    margin-right:auto;
+    margin-left:auto;
+    display:block;
+    background-color:rgb(54, 54, 54);
+    padding:50px 50px;
+}
+.p1{
+    color: #222;
+    word-wrap:break-word;
+    text-align:justify;
+    font-size:30px;
+    padding:0 400px;
+}
+.p2{
+    text-align:center;
+    font-size:25px; 
+}
+.tbl1{
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+}
+@keyframes slideInLeft{
+    from{
+        transform:translateX(-1920px);
+    }
+    to{
+        transform: translateX(0);
+    }
+}
