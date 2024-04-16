@@ -1,0 +1,105 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.a1{
+    font-size:55px;
+    text-decoration:none;
+    margin:0 550px;
+    color:white;
+    background-color:rgb(122, 55, 0);
+    padding:30px 30px;
+    border-radius:25px;
+}
+.a2{
+    position:absolute;
+    text-decoration:none;
+    font-size:35px;
+    color:rgb(255, 208, 0);
+    margin:150px 20px;
+    text-shadow:black 3px 3px 3px;
+    transition:0.3s;
+}
+.a2:hover{
+    transition:0.3s;
+    color:black;
+    text-shadow:rgb(255, 208, 0) 3px 3px 3px;
+}
+.a4{
+    position:absolute;
+    margin:120px 710px;
+    font-size:35px;
+    text-decoration:none;
+    color:yellow;
+    background-color:black;
+    padding:10px 20px;
+    border-radius:20px;
+    transition:0.5s;
+}
+.a4:hover{
+    transition:0.5s;
+    background-color:yellow;
+    color:black;
+}
+.a5{
+    font-size:55px;
+    margin:0px 740px;
+    color:white;
+    background-color:rgb(122, 55, 0);
+    padding:20px 20px;
+    border-radius:30px;
+}
+.a6{
+    text-decoration:none;
+    color:yellow;
+    background-color:rgb(190, 0, 0);
+    padding:10px 10px;
+    border-radius:15px;
+    transition:0.5s;
+}
+.a6:hover{
+    transition:0.5s;
+    background-color:yellow;
+    color:rgb(190, 0, 0);
+}
+.a7{
+    text-decoration:none;
+    color:rgb(0, 162, 255);
+    background-color:rgb(41, 55, 117);
+    padding:10px 10px;
+    border-radius:15px;
+    transition:0.5s;
+}
+.a7:hover{
+    transition:0.5s;
+    background-color:rgb(0, 162, 255);
+    color:rgb(41, 55, 117);
+}
+.h2{
+    text-align:center;
+    font-size:35px;
+    color:rgb(122, 55, 0);
+}
+.img1{
+    position: absolute;
+}
+.img2{
+    margin:130px 110px;
+    background-color:rgb(122, 55, 0);
+    padding:40px 40px;
+    border-radius:30px;
+    animation-name:slideInLeft;
+    animation-duration:0.7s;
+}
+.img3{
+    background-color:rgb(122, 55, 0);
+    padding:15px 15px;
+    border-radius:20px;
+}
+@keyframes slideInLeft{
+    from{
+        transform:translateX(-1920px);
+    }
+    to{
+        transform: translateX(0);
+    }
+}
